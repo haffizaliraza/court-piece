@@ -53,18 +53,3 @@ print('decided_color', decided_color)
 max_card = compare_cards(hands['Person 1'][0], hands['Person 2'][0], hands['Person 3'][0], hands['Person 4'][0])
 print('max_card---->', max_card)
 
-# hands = distribute_cards_x(4)
-
-# for person, cards in hands.items():
-#     print(person + ":")
-#     for card in cards:
-#         print(card)
-
-# print("---------------------------")
-
-# hands = distribute_cards_x(4)
-
-# for person, cards in hands.items():
-#     print(person + ":")
-#     for card in cards:
-#         print(card)
